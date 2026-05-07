@@ -10,6 +10,7 @@ body {
   justify-content: space-evenly;
   gap: 50px;
   flex-wrap: wrap;
+  flex: 1 1 auto;
   
 }
 
